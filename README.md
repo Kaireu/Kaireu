@@ -1,7 +1,7 @@
 <!--### Hi there 👋-->
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kaireu&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kaireu&layout=compact&theme=dracula)
+
 <!--
 **Kaireu/Kaireu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
