@@ -1,5 +1,5 @@
 <!--### Hi there 👋-->
-<br><br><br>
+<br>
 <p align = "center">
 <img src = "https://i.imgur.com/3iP0fs3.png" alt = "kairu" align = "center"> </img><br>
 A Frontend and Backend Developer<br>
