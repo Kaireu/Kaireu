@@ -1,6 +1,6 @@
 <!--### Hi there 👋-->
 
-<img src = "https://i.imgur.com/3iP0fs3.png" alt = "kairu" align = "center"> </img><br>
+<img align = "center" src = "https://i.imgur.com/3iP0fs3.png" alt = "kairu" align = "center"> </img><br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kaireu&show_icons=true&theme=dracula)
 
 <!--
