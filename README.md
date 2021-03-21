@@ -1,7 +1,15 @@
 <!--### Hi there 👋-->
+<p align = "center">
+<img src = "https://i.imgur.com/3iP0fs3.png" alt = "kairu" align = "center"> </img><br><br><br>
 
-<img align = "center" src = "https://i.imgur.com/3iP0fs3.png" alt = "kairu" align = "center"> </img><br>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kaireu&show_icons=true&theme=dracula)
+<a href="https://github-readme-stats.vercel.app/api?username=Kaireu&show_icons=true&theme=dracula">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Kaireu&show_icons=true&theme=dracula" />
+</a>
+</p>
+
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kaireu&show_icons=true&theme=dracula) -->
+
+
 
 <!--
 **Kaireu/Kaireu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
