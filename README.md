@@ -1,6 +1,8 @@
 <!--### Hi there 👋-->
 
-<img src = "https://i.imgur.com/ayyp6FW.png" alt = "kairu">
+<img src = "https://i.imgur.com/ayyp6FW.png" alt = "kairu" align = "center"> </img><br>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kaireu&show_icons=true&theme=dracula)
+
 <!--
 **Kaireu/Kaireu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
