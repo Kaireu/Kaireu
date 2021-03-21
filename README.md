@@ -8,7 +8,7 @@ A Frontend and Backend Developer<br>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Kaireu&theme=dark&show_icons=true&bg_color=1a1a1a&icon_color=a0ffff" />
 </a>
 </p>
-
+This page is best viewed with light and dark dimmed mode.
 
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kaireu&show_icons=true&theme=dracula) -->
