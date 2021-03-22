@@ -5,7 +5,7 @@
 A Frontend and Backend Developer<br>
 <a href="https://discord.gg/rTZNEEuxCU"> Discord </a>| Portfolio <br><br>
 
-<a href="https://github-readme-stats.vercel.app/api?username=Kaireu&show_icons=true&theme=dracula">
+<a href="https://github-readme-stats.vercel.app/api?username=Kaireu&theme=dark&show_icons=true&bg_color=1a1a1a&icon_color=a0ffff">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Kaireu&theme=dark&show_icons=true&bg_color=1a1a1a&icon_color=a0ffff" />
 </a>
 </p><br><br><br>
