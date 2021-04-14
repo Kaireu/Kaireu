@@ -3,7 +3,7 @@
 <p align = "center">
 <img src = "https://i.imgur.com/3iP0fs3.png" alt = "kairu" align = "center"> </img><br>
 A Frontend and Backend Developer<br>
-<a href="https://discord.gg/rTZNEEuxCU"> Discord </a> <br><br>
+<!--<a href="https://discord.gg/rTZNEEuxCU"> Discord </a> <br><br>-->
 
 <a href="https://github-readme-stats.vercel.app/api?username=Kaireu&theme=dark&show_icons=true&bg_color=1a1a1a&icon_color=a0ffff">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Kaireu&theme=dark&show_icons=true&bg_color=1a1a1a&icon_color=a0ffff" />
